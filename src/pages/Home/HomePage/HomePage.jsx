@@ -8,10 +8,6 @@ const HomePage = () => {
             <Banner />
             <Category />
             <PopularMenu />
-
-            <div className="w-20 h-20 bg-slate-200 rounded-e-full rounded-b-full gap-px">
-
-            </div>
         </div>
     );
 };
