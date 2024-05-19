@@ -24,7 +24,7 @@ const Menu = () => {
                     Bistro Boss | Menu
                 </title>
             </Helmet>
-            {/* Min Cover */}
+            {/* Main Cover */}
             <Cover img = { menuImg } title={"Our Menu"}/>
 
             {/* Offered Menu section */}
